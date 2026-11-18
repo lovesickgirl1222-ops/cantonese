@@ -128,5 +128,3 @@ document.getElementById('app').innerHTML=h}
 var m=/^#s(\d)$/.exec(location.hash);if(m)cur=+m[1];render();
 </script></body></html>
 ```[cite: 1]
-
-코드의 구조나 기능에 대해 설명이나 수정이 필요하시면 말씀해 주세요!
